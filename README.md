@@ -1,3 +1,2 @@
-=================
-360 Picture using A-Frame
-=================
+360 image using A-Frame
+
